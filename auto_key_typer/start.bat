@@ -1,8 +1,8 @@
-rem Às‚·‚éps1ƒtƒ@ƒCƒ‹‚Ìw’è
+rem å®Ÿè¡Œã™ã‚‹ps1ãƒ•ã‚¡ã‚¤ãƒ«ã®æŒ‡å®š
 set start_filename="%~dp0main.ps1"
 
-rem Às
+rem å®Ÿè¡Œ
 powershell -ExecutionPolicy Unrestricted -File %start_filename%
 
-echo Š®—¹‚µ‚Ü‚µ‚½B
+echo å®Œäº†ã—ã¾ã—ãŸã€‚
 pause
